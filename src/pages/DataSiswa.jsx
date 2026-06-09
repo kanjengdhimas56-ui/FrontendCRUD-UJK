@@ -69,7 +69,7 @@ export default function DataSiswa() {
     return (
         <div className="dashboard-wrapper">
             <div className="dashboard-content container-fluid mt-3 px-4 py-4">
-                <div className="d-flex flex-wrap align-items-center justify-content-between mb-4 gap-3">
+                <div className="d-flex flex-wrap align-items-center justify-content-between mx-4 mb-4 gap-3">
                     <div>
                         <h2 className="page-title mb-1">Data Siswa</h2>
                         <p className="page-subtitle mb-0">Data Siswa yang terdaftar di sekolah</p>
